@@ -1,0 +1,25 @@
+body {
+    background-color: #c1efff;
+}
+
+.field {
+    display: flex;
+    flex-direction: column;
+    margin: 10px 0;
+}
+
+.input {
+    width: 500px;
+}
+
+.label {
+    font-size: 1.1rem;
+}
+
+#submitRequest {
+    background-color: #ca8dfd;
+    color: black;
+    font-weight: bold;
+    margin: 10px 0;
+    width: 200px
+}

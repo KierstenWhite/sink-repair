@@ -1,0 +1,151 @@
+{
+  "plumbers": [
+    {
+      "id": 1,
+      "name": "Maude"
+    },
+    {
+      "id": 2,
+      "name": "Merle"
+    }
+  ],
+  "completions": [
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:32:15.985Z",
+      "id": 1
+    },
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:32:17.563Z",
+      "id": 2
+    },
+    {
+      "requestId": 5,
+      "plumberId": 2,
+      "date_created": "2023-03-27T18:32:20.957Z",
+      "id": 3
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:32:22.481Z",
+      "id": 4
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:32:29.133Z",
+      "id": 5
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:32:36.261Z",
+      "id": 6
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:33:06.249Z",
+      "id": 7
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:33:08.374Z",
+      "id": 8
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:43:03.673Z",
+      "id": 9
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:43:05.493Z",
+      "id": 10
+    },
+    {
+      "requestId": 4,
+      "plumberId": 2,
+      "date_created": "2023-03-27T18:45:11.889Z",
+      "id": 11
+    },
+    {
+      "requestId": 4,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:45:13.993Z",
+      "id": 12
+    },
+    {
+      "requestId": 5,
+      "plumberId": 2,
+      "date_created": "2023-03-27T18:45:15.293Z",
+      "id": 13
+    },
+    {
+      "requestId": 5,
+      "plumberId": 2,
+      "date_created": "2023-03-27T18:45:17.233Z",
+      "id": 14
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:55:09.373Z",
+      "id": 15
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:55:13.663Z",
+      "id": 16
+    },
+    {
+      "requestId": 2,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:55:24.385Z",
+      "id": 17
+    },
+    {
+      "requestId": 4,
+      "plumberId": 2,
+      "date_created": "2023-03-27T18:55:27.157Z",
+      "id": 18
+    },
+    {
+      "requestId": 5,
+      "plumberId": 1,
+      "date_created": "2023-03-27T18:55:29.963Z",
+      "id": 19
+    }
+  ],
+  "requests": [
+    {
+      "id": 2,
+      "description": "Water heater is leaking out the bottom",
+      "address": "123 Bikini Bottom",
+      "budget": 2500,
+      "neededBy": "2021-08-24"
+    },
+    {
+      "description": "The sink is broke",
+      "address": "25 Morris St",
+      "budget": "500",
+      "neededBy": "2005-12-31",
+      "id": 4
+    },
+    {
+      "description": "My dog ate the shower head",
+      "address": "123 Merry St",
+      "budget": "687",
+      "neededBy": "2023-03-23",
+      "id": 5
+    }
+  ]
+}
